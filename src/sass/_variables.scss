@@ -1,0 +1,171 @@
+$primaryColor: #fec84e !default;
+$primaryColor-10: #f9c02f !default;
+$primaryColor-50: #fffbeb !default;
+$primaryColor-100: #fdf3c8 !default;
+$primaryColor-500: #f39c0d !default;
+$secondaryColor: #015067 !default;
+$black: #000b17 !default;
+$white: #ffffff !default;
+$white-10: #a5acb8;
+
+$black-10: #000;
+$black-20: #101828;
+$black-30: #171717;
+$black-40: #000000;
+$black-50: #1a1f36;
+
+$yellow-10: #fad14f;
+
+$blue-10: #2176ef;
+$blue-20: #85c1f3;
+$blue-50: #eff8ff;
+$blue-100: #daeeff;
+$blue-500: #2e90fa;
+$blue-600: #007bff;
+$blue-700: #eaf1ff;
+$blue-800: #3178f3;
+$blue-2040: #004080;
+
+$green-10: #ecfdf3 !default;
+$green-20: #039855 !default;
+$green-30: #abefc6 !default;
+$green-40: #0a9150 !default;
+$green-50: #edfcf2 !default;
+$green-100: #d2f9de !default;
+$green-500: #16b364 !default;
+
+$orange-10: #fef6ee !default;
+$orange-20: #fdebd7 !default;
+$orange-30: #ef6820 !default;
+$orange-50: #f8dacb !default;
+$orange-500: #f5981e !default;
+$orange-60: #e04f16;
+$orange-70: #f5a623;
+$orange-80: #ff9800;
+
+$purple-50: #c0c8f6;
+$purple-60: #e2ddfa;
+$purple-500: #5d69ad;
+$purple-600: #f35c4f;
+$pink-600: #ff8c9b;
+$pink-60: #fcfcfc;
+
+$red-10: #fff1f1;
+$red-20: #ffe0e0;
+$red-30: #fa3939;
+$red-40: #f44336;
+$red-50: #fff1f3;
+$red-500: #f74f76;
+$red-60: #f1f1f1;
+$red-70: #ff0000;
+$red-80: #f9f9f9;
+$red-90: #ececec;
+
+$gray-10: #e4e7ec !default;
+$gray-20: #f2f4f7 !default;
+$gray-30: #d9d9d9 !default;
+$gray-40: #b5b4b4 !default;
+$gray-50: #f5f5f6 !default;
+$gray-60: #eaeaea !default;
+$gray-70: #e4e7ec !default;
+$gray-100: #f0f1f1 !default;
+$gray-200: #ececed !default;
+$gray-300: #cecfd2 !default;
+$gray-350: #d0d5dd !default;
+$gray-400: #94969c !default;
+$gray-500: #85888e !default;
+$gray-600: #61646c !default;
+$gray-700: #333741 !default;
+$gray-800: #1f242f !default;
+$gray-900: #161b26 !default;
+$gray-910: #00000019 !default;
+$gray-920: #00000033 !default;
+$gray-950: #0c111d !default;
+$gray-960: #182230 !default;
+$gray-970: #475467 !default;
+$gray-1000: #667085 !default;
+$gray-1010: #344054 !default;
+$gray-1020: #69707e !default;
+$gray-1030: #c0c6cc !default;
+$gray-1040: #f9fafb !default;
+$gray-1050: #98a2b3 !default;
+$gray-1060: #b6bfcb !default;
+$gray-1070: #d0d5dd !default;
+$gray-1080: #334155 !default;
+$gray-1090: #4b5563 !default;
+$gray-2000: #c8c8c8 !default;
+$gray-2010: #e0e0e0 !default;
+$gray-2020: #b3b3b3 !default;
+$gray-2030: #f2f2f2 !default;
+$color-1100: #f3f4f6 !default;
+$color-1200: #f9fafb4c !default;
+$color-1300: #ffffff4c !default;
+$color-1400: #767676 !default;
+$color-1500: #cccccc !default;
+$color-1600: #333333 !default;
+$color-1700: #555555 !default;
+$color-1800: #888888 !default;
+$color-1900: #dddddd !default;
+$color-d1d: #d1d5db !default;
+$color-f5: #f5f5f5 !default;
+
+$secondary-50: #e7fffe !default;
+$secondary-100: #b3f7f5 !default;
+$secondary-200: #7ff0f2 !default;
+$secondary-300: #3ffff6 !default;
+$secondary-400: #00fff6 !default;
+$secondary-500: #00eaff !default;
+$secondary-600: #00b8e0 !default;
+$secondary-700: #0090b3 !default;
+$secondary-800: #00738f !default;
+$secondary-900: #015067 !default;
+$secondary-950: #003e54 !default;
+
+$pink-1090: #ffc7c7 !default;
+$bg-button-header: #f9fafb4d !default;
+
+// toast
+$toastPadding: 0.5rem !default;
+
+//menu
+$menuitemPadding: 0.25rem 0.5rem !default;
+
+//global
+$errorColor: #e24c4c !default;
+$colorPlaceholder: #6b7280;
+
+$text-ms: 8px;
+$text-xs: 10px; // font-size xs
+$text-s: 12px; // font-size s
+$text-sm: 14px; // font-size sm
+$text-md: 16px; // font-size md
+$text-lg: 18px; // font-size lg
+$text-xl: 20px; // font-size xl
+
+$font-size: 14px; // font-size web
+$font-size-s: 12px; // font-size hint text
+$font-size-xs: 10px; // font-size hint text
+$font-size-icon: 13px; // font-size hint text
+$font-size-m: 16px; // font-size label
+$font-size-l: 24px; // font-size title
+$font-size-md: 20px; // font-size title others
+$font-size-xl: 30px; // font-size title others
+$font-size-x90: 90px; // font-size avatar represent
+
+$box-shadow:
+  rgba(0, 0, 0, 0.12) 0px 1px 3px,
+  rgba(0, 0, 0, 0.24) 0px 1px 2px;
+$radius-5: 5px !default;
+$radius-8: 8px !default;
+$radius-10: 10px !default;
+$radius-12: 12px !default;
+$radius-16: 16px !default;
+$radius-20: 20px !default;
+$radius-30: 30px !default;
+
+$color-075: #075d76 !default;
+$color-2b8: #2b849b !default;
+$color-009: #0090b3 !default;
+$color-015: #015067 !default;
+$color-28a: #28a745 !default;
+$color-6c7: #6c757d !default;
